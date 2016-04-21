@@ -1,0 +1,1 @@
+A windows solution for easily packaging python applications. Using this launcher you won't have to worry about creating complicated py2exe setup.py files. Just declare your application's entry point and voila! you have a portable windows application.
